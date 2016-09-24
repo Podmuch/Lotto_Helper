@@ -1,0 +1,14 @@
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\bin\Debug\Lotto_Helper.exe.config
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\bin\Debug\Lotto_Helper.exe
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\bin\Debug\Lotto_Helper.pdb
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\obj\Debug\Lotto_Helper.csprojResolveAssemblyReference.cache
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\obj\Debug\MainWindow.g.cs
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\obj\Debug\App.g.cs
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\obj\Debug\Lotto_Helper_MarkupCompile.cache
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\obj\Debug\Lotto_Helper_MarkupCompile.lref
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\obj\Debug\MainWindow.baml
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\obj\Debug\Lotto_Helper.g.resources
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\obj\Debug\Lotto_Helper.Properties.Resources.resources
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\obj\Debug\Lotto_Helper.csproj.GenerateResource.Cache
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\obj\Debug\Lotto_Helper.exe
+C:\Users\domin\Documents\Visual Studio 2015\Projects\Lotto_Helper\Lotto_Helper\obj\Debug\Lotto_Helper.pdb
